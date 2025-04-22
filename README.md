@@ -6,7 +6,7 @@
 
 This project explores the classic [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris) using Python libraries such as [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), and [Scikit-learn](https://scikit-learn.org/).The aim is to perform data exploration, statistical analysis, and simple machine learning modeling. 
 
-You can view the full analysis and code in the [tasks.ipynb](tasks.ip
+You can view the full analysis and code in the [tasks.ipynb](tasks.ipynb) notebook.
 
 
 ---
